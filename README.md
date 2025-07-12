@@ -32,6 +32,7 @@ A comprehensive project from the UC Davis GIS Coursera Program. This exercise in
 -   Data Acquisition & Preparation
 -   Basic Geoprocessing
 -   Spatial Analysis
+-   Creating Map Insets
 -   Professional Map Layout & Design
 
 #### Final Map
